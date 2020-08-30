@@ -1,8 +1,8 @@
 name: canvas_to_image
-description: A new Flutter package project.
+description: A Flutter package project for generating the png image from canvas.
 version: 0.0.1
-author:
-homepage: http://localhost.com/
+author: Q.S. Wang
+homepage: https://github.com/qs-wang/flutter_canvas_to_image
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
